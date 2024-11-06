@@ -1,4 +1,4 @@
-module shocknode.com/ncwrcmaps
+module github.com/ShockNode/ncwrcmaps
 
 go 1.21.5
 
