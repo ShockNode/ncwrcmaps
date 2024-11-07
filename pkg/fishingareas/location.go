@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"shocknode.com/ncwrcmaps/pkg/httphelper"
+	"github.com/ShockNode/ncwrcmaps/pkg/httphelper"
 )
 
 type Location struct {
